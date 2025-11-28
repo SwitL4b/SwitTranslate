@@ -17,7 +17,7 @@
 
 
 Discord:
-  token: ""      # Your Discord Bot Token
+  token: ""                     # Your Discord Bot Token
 Gemini:
   api_key: ""
 

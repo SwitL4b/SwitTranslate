@@ -6,7 +6,6 @@ import os
 import json
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..','..'))
 EMBED_JSON_PATH = os.path.join(ROOT, 'bot_reply.json')
-
 class EmbedJson:
     _data = None
 
